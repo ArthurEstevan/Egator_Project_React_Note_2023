@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Learning About Framework React <img width="50px" src="icon/react.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## _Repository with several subjects in React_
 
-## Available Scripts
+> _Practical contents carried out during extracurricular studies._
+>
+> - **_JAVASCRIPT - Programming language._**
+> - **_NODE.JS - Software._**
 
-In the project directory, you can run:
+![EGATOR](icon/notes.png)
 
-### `npm start`
+## ![](icon/instrucoes.png) Instructions for Execute the Project 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Make a project copy to your machine: 
+    - [Git Clone](https://github.com/ArthurEstevan/Egator_Project_React_Note_2023) ⇽ Clone this repository on your computer
+    - [Download](https://github.com/ArthurEstevan/Egator_Project_React_Note_2023/archive/refs/heads/main.zip) ⇽ Or a direct download from the page 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Import the project into your IDE and execute the application.
 
-### `npm test`
+3. In the project directory, you can run:
+    - ### `npm start`
+<br>
+    
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ![](icon/icon_conceito.png) About the Project
 
-### `npm run build`
+O projeto do "React Notes App Tutorial for Beginners 2023" é um aplicativo de notas básico desenvolvido em React JS. Ele permite que os usuários criem, editem e excluam notas.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O aplicativo utiliza os conceitos fundamentais do React, incluindo a criação de componentes, gerenciamento de estado e manipulação de eventos. Além disso, ele utiliza a biblioteca externa "react-router-dom" para navegar entre as diferentes páginas do aplicativo.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este projeto é ideal para iniciantes que desejam aprender a criar aplicativos React simples e desejam aprimorar suas habilidades no desenvolvimento web. O tutorial fornece um guia passo a passo sobre como criar o aplicativo de notas, e pode ser adaptado para criar outros aplicativos React.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Com o conhecimento adquirido neste tutorial, você poderá explorar outras funcionalidades do React e construir projetos mais avançados. Esperamos que este tutorial tenha sido útil para você e que tenha ajudado a iniciar sua jornada no desenvolvimento web com React JS.
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ![](icon/configuracoes.png) Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; IDE - Integrated development environment
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- ![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=#E34F26)&nbsp; Frontend - Front-end Web Development 
 
-## Learn More
+- ![Css](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3&logoColor=#E34F26)&nbsp; Frontend - Front-end Web Development 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#E34F26)&nbsp; React - Framework Javascript.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=#000000)&nbsp; Markdown language - Text Formatting 
 
-### Code Splitting
+- ![Documentation](https://img.shields.io/badge/Documentation-black?style=for-the-badge&logo=academia&logoColor=#41454A)&nbsp; Documentation - File Documentation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- ![Versioning](https://img.shields.io/badge/Versioning-black?style=for-the-badge&logo=git&logoColor=#F05032)&nbsp; Versioning - Versioning from GitHub
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📚 _References_ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+> Channel where I learned how to do this project.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. [Egator](https://www.youtube.com/@EGATORTUTORIALS)
+2. [Site Official React](https://react.dev)
